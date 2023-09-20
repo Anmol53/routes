@@ -1,4 +1,4 @@
-# Following are the available routes
+# Following are the available pages
 
 ## Projects
 
